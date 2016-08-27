@@ -1,0 +1,14 @@
+layout_spectrum: 0.1899642
+typography_spectrum: 0.3351254
+color:
+  saturation: 0.7386779
+  lightness: 0.6858867
+  brandStrength: 0.9404216
+  rhythmicContrast: 0.9603787
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Lloydblog
